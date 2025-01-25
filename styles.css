@@ -1,0 +1,79 @@
+body{
+    background-color: lightgray;
+    margin: 0px;
+}
+
+#header{
+    background-color: white;
+    padding: 10px;
+}
+#Encabezado{
+    margin: 0;
+    background-color: white;
+    text-align: center;
+}
+
+#Ajustescontenedores{
+    width: 600px;
+    margin: auto;
+    padding-top: 20px;
+    background-color: lightgray;
+}
+#Ajustescontenedores #partesuperiorcontenedor{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#Primerafoto{
+    background-color: white;
+}
+#Primerafoto img{
+    width: 100%;
+}
+#Primerafoto h2{
+    padding: 15px;
+}
+#Primerafoto p{
+    padding: 15px;
+}
+
+#Segundafoto{
+    background-color: white;
+}
+#Segundafoto img{
+    width: 100%;
+}
+#Segundafoto h2{
+    padding: 15px;
+}
+#Segundafoto p{
+    padding: 15px;
+}
+
+#Tercerafoto{
+    background-color: white;
+}
+#Tercerafoto img{
+    width: 100%;
+}
+#Tercerafoto h2{
+    padding: 15px;
+}
+#Tercerafoto p{
+    padding: 15px;
+}
+
+#Cuartafoto{
+    background-color: white;
+}
+#Cuartafoto img{
+    width: 100%;
+}
+#Cuartafoto h2{
+    padding: 15px;
+}
+#Cuartafoto p{
+    padding: 15px;
+}
